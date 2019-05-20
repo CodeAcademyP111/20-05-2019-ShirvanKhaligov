@@ -1,0 +1,32 @@
+.transition{
+    background-color: #D8D8D8;
+    color: black;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    font-size: 35px; 
+    cursor: pointer;
+   }
+     
+  
+  .transition:hover{
+   background-color:yellow;
+  }
+  
+  .panel{
+    display: none;
+    background-color: green;
+  
+    
+  }
+  .panel p{
+   font-size: 40px;
+   color:rgb(98, 170, 88);
+   font-family: 'arial';  
+  }
+  
+  .icon{
+      font-size: 28px;
+      float: right;
+  }
